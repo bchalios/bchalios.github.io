@@ -55,7 +55,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Some catchy quote..."
-  - text: "Some other pretentious quote."
+  - text: "Some other pretentious quote..."
 
 me-img: "/img/me.jpg"
 
@@ -161,7 +161,7 @@ email: "babis.chalios at bsc.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Babis is a post-doctoral researcher @ Barcelona Supercomputing Center. I am currently working on runtime system support for distributed memory programming models. My areas of interest include computing systems for efficient, scalable applications."
+author_blurb: "I'm a post-doctoral researcher @ Barcelona Supercomputing Center. I am currently working on runtime system support for distributed memory programming models. My areas of interest include computing systems for efficient, scalable applications."
 author_blurb_image: "/img/author.jpg"
 
 ##################
