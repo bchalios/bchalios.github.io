@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bchalios
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bchalios.io
+  * I am bchalios (https://keybase.io/bchalios) on keybase.
+  * I have a public key ASDlTSigavxCs5aCfFn5Qyg9VWA-pumPtYybsYDn4n039wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e54d28a06afc42b396827c59f943283d55603ea6e98fb58c9bb180e7e27d37f70a",
+      "host": "keybase.io",
+      "kid": "0120e54d28a06afc42b396827c59f943283d55603ea6e98fb58c9bb180e7e27d37f70a",
+      "uid": "b4714e43be5870ae21c389024f0cc919",
+      "username": "bchalios"
+    },
+    "merkle_root": {
+      "ctime": 1568269966,
+      "hash": "f2c95007bb3ca9d4d5e49de7822b276fa5618a35836a6b966dbca5ad5d5f0914a6635cdc9c94b2970eded109a804883b45cce46fd64a932b32992e2716ed0962",
+      "hash_meta": "90f97543c18539b5e4e5f08eb146a0abf477d1352730e0980c91802dc7804aa2",
+      "seqno": 6906775
+    },
+    "service": {
+      "entropy": "oAPl1YBzS/PgE+0oScRFyjat",
+      "hostname": "bchalios.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568269978,
+  "expire_in": 504576000,
+  "prev": "1b9e3a8bacd7b7374fd87057d1e3df74744850730b7268ead6234d2f489bd6d2",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5U0ooGr8QrOWgnxZ+UMoPVVgPqbpj7WMm7GA5+J9N/cKp3BheWxvYWTESpcCI8QgG546i6zXtzdP2HBX0ePfdHRIUHMLcmjq1iNNL0ib1tLEII1i1IYDztjnqHYsMgVT7ief6cf8DsEGg39wb1sdH0UnAgHCo3NpZ8RAXCv7lJhRHcAJlOuQ7H39FYivd2isH74rdaEk9tYX1A1zUsSWVGhWtKzAiYVZ6yVyGM2QxwTysA5wXCpG7wvvAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMuGQlVgUjadg3bzlnx1nEPZch56yQqTHfOJnld8Tjxqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bchalios
+
+==================================================================
