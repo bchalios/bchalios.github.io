@@ -130,8 +130,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/volta.jpg"
+    date: "September 2019 - Today"
+    description: "Control plane engineer"
   - image: "/img/timeline/bsc.svg"
-    date: "February 2017 - Today"
+    date: "February 2017 - July 2019"
     description: "Post doctoral researcher. Member of the \"Microserver Architectures and System Software\" group, working on runtime systems for distributed memory programming models"
   - image: "/img/timeline/ibm.svg"
     date: "September 2015 - December 2015"
